@@ -1,6 +1,9 @@
 docker-mosquitto
 ================
 
+`1.4.10` `latest` 
+
+
 Mosquitto MQTT Broker on Docker Image.
 
 # Version
