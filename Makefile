@@ -1,5 +1,5 @@
 DOCKER=docker
-REPOSITORY?=jllopis/mosquitto
+REPOSITORY?=kratochj/mosquitto
 TAG?=v1.4.10
 
 all:
